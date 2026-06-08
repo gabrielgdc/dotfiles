@@ -8,7 +8,28 @@ background-opacity = 1
 window-padding-x = 10
 window-padding-y = 10
 background-blur-radius = 20
+confirm-close-surface = false
+
+quick-terminal-size = 40%,70%
+quick-terminal-position = center
+quick-terminal-autohide = true
+
+# =====================================================
+# Keybinds
+# =====================================================
+
 keybind = cmd+t=unbind
+keybind = global:f4=toggle_quick_terminal
+
+# =====================================================
+# Custom Tray Icon
+# =====================================================
+
+macos-icon = retro
+#macos-icon = custom-style
+#macos-icon-frame = aluminum
+#macos-icon-ghost-color = #ebebeb
+#macos-icon-screen-color = #000000,#000000
 
 # =====================================================
 # Monochrome Theme
