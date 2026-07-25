@@ -5,7 +5,7 @@
 Clone the repository into your home directory:
 
 ```bash
-git clone https://github.com/seu-usuario/dotfiles.git
+git clone https://github.com/gabrielgdc/dotfiles.git
 ```
 
 ## 2. Install Packages and Dependencies
