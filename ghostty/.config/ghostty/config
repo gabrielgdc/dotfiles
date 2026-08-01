@@ -7,25 +7,37 @@ mouse-hide-while-typing = true
 background-opacity = 1
 window-padding-x = 10
 window-padding-y = 10
+window-height = 50
+window-width = 160
+window-decoration = none
 background-blur-radius = 20
 confirm-close-surface = false
-
-quick-terminal-size = 40%,70%
-quick-terminal-position = center
-quick-terminal-autohide = true
 
 # =====================================================
 # Keybinds
 # =====================================================
 
+keybind = ctrl+right=text:\x1bf
+keybind = ctrl+left=text:\x1bb
+keybind = delete=text:\x04
 keybind = cmd+t=unbind
+keybind = ctrl+backspace=text:\x17
+keybind = ctrl+delete=text:\x1bd
 keybind = global:f4=toggle_quick_terminal
 
 # =====================================================
-# Custom Tray Icon
+# Quick Terminal Toggle
 # =====================================================
 
-macos-icon = retro
+#quick-terminal-size = 40%,70%
+#quick-terminal-position = center
+#quick-terminal-autohide = true
+
+# =====================================================
+# MacOs Customizations
+# =====================================================
+
+#macos-icon = retro
 #macos-icon = custom-style
 #macos-icon-frame = aluminum
 #macos-icon-ghost-color = #ebebeb
