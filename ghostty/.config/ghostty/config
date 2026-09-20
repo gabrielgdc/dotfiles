@@ -9,7 +9,7 @@ window-padding-x = 10
 window-padding-y = 10
 window-height = 40
 window-width = 160
-window-decoration = none
+#window-decoration = none
 background-blur-radius = 20
 confirm-close-surface = false
 
