@@ -2,7 +2,7 @@
 # Configurations
 # =====================================================
 
-font-size = 16
+font-size = 12
 mouse-hide-while-typing = true
 background-opacity = 1
 window-padding-x = 10
